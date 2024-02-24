@@ -53,5 +53,37 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+Buying Table:
 
-### RESULT: 
+![image](https://github.com/Sharmilasha/WDM_EXP2/assets/94506182/8853bfff-fb40-4dd5-a9f0-cce39ccc9a0b)
+
+Banking Table:
+
+![image](https://github.com/Sharmilasha/WDM_EXP2/assets/94506182/72bbf93d-818e-471d-8650-1faaaead9b99)
+
+Employee Table:
+
+![image](https://github.com/Sharmilasha/WDM_EXP2/assets/94506182/26836096-86e5-41d5-b087-ac3f76ad48a5)
+
+Procedure for Association Rules:
+
+1.Open Start -> Programs -> Accessories -> Notepad
+2.Open explorer.
+3.Click on open file and select buying.arff
+4.Select Associate option on the top of the Menu bar.
+5.Select Choose button and then click on Apriori Algorithm.
+6.Click on Start button and output will be displayed on the right side of the window.
+
+OUTPUT:
+
+Buying Table:
+
+![image](https://github.com/Sharmilasha/WDM_EXP2/assets/94506182/f38546a8-28eb-4205-83ac-d6c0d941e203)
+
+Employee Table:
+
+![image](https://github.com/Sharmilasha/WDM_EXP2/assets/94506182/cabf77c5-4feb-4b4d-a050-9554bbb11898)
+
+### RESULT:
+
+Thus this program has been successfully executed.
